@@ -1,0 +1,15 @@
+{
+	"name": "trendytech-reshab-df1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2ed0bca3-d0b4-46c4-bcc0-8e5b6276097b",
+		"tenantId": "79874634-9e1a-4084-ad17-a8d81ff4b982"
+	}
+}
